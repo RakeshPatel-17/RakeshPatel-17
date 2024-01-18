@@ -1,6 +1,6 @@
 3- 👋 Hi, I’m @RakeshPatel
 - 👀 I’m interested in DevOps, AWS, AZURE,  GitHub, GitLab, Teraform, Kubernatives, CI/CD, iTERM...
-- 🌱 I’m currently learning Docker, Development tools...
+- 🌱 I’m currently learning Development tools..
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me via mail rakeshpatel1117@gmail.com
 - 😄 Pronouns: Rakesh Patel 
